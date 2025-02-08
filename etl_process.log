@@ -1,0 +1,36 @@
+INFO:root:2025-02-05 18:35:33.787756 - ETL Process Started
+INFO:root:2025-02-05 18:35:33.844199 - Tables checked/created successfully.
+INFO:root:2025-02-05 18:35:34.869608 - Dim_Area data inserted.
+INFO:root:2025-02-05 18:35:35.078327 - Dim_Item data inserted.
+INFO:root:2025-02-05 18:35:35.083294 - Dim_Time data inserted.
+INFO:root:2025-02-05 18:37:34.584600 - Data inserted into Fact_SDG_Measurements.
+INFO:root:2025-02-05 18:37:37.503306 - Indexes created for optimization.
+INFO:root:2025-02-05 18:37:37.504099 - ETL Process Completed Successfully
+INFO:root:2025-02-05 19:05:49.780419 - ETL Process Started
+INFO:root:2025-02-05 19:05:49.820571 - Tables checked/created successfully.
+INFO:root:2025-02-05 19:05:51.352902 - Dim_Area data inserted.
+INFO:root:2025-02-05 19:05:51.508478 - Dim_Item data inserted.
+INFO:root:2025-02-05 19:05:51.513437 - Dim_Time data inserted.
+INFO:root:2025-02-05 19:08:54.192714 - Data inserted into Fact_SDG_Measurements.
+INFO:root:2025-02-05 19:09:47.479871 - ETL Process Started
+INFO:root:2025-02-05 19:09:47.521946 - Tables checked/created successfully.
+INFO:root:2025-02-05 19:09:48.881893 - Dim_Area data inserted.
+INFO:root:2025-02-05 19:09:49.067632 - Dim_Item data inserted.
+INFO:root:2025-02-05 19:09:49.073993 - Dim_Time data inserted.
+INFO:root:2025-02-05 19:11:35.483990 - Data inserted into Fact_SDG_Measurements.
+INFO:root:2025-02-05 19:14:08.466512 - ETL Process Started
+INFO:root:2025-02-05 19:14:08.507157 - Tables checked/created successfully.
+INFO:root:2025-02-05 19:14:09.841991 - Dim_Area data inserted.
+INFO:root:2025-02-05 19:14:09.973042 - Dim_Item data inserted.
+INFO:root:2025-02-05 19:14:09.976661 - Dim_Time data inserted.
+INFO:root:2025-02-05 19:15:54.644226 - Data inserted into Fact_SDG_Measurements.
+INFO:root:2025-02-05 19:15:54.674321 - Indexes created for optimization.
+INFO:root:2025-02-05 19:15:54.675401 - ETL Process Completed Successfully
+INFO:root:2025-02-05 19:18:46.999228 - ETL Process Started
+INFO:root:2025-02-05 19:18:47.000685 - Tables checked/created successfully.
+INFO:root:2025-02-05 19:18:48.145124 - Dim_Area data inserted.
+INFO:root:2025-02-05 19:18:48.336585 - Dim_Item data inserted.
+INFO:root:2025-02-05 19:18:48.345673 - Dim_Time data inserted.
+INFO:root:2025-02-05 19:20:38.883627 - Data inserted into Fact_SDG_Measurements.
+INFO:root:2025-02-05 19:20:38.886441 - Indexes created for optimization.
+INFO:root:2025-02-05 19:20:38.887182 - ETL Process Completed Successfully
