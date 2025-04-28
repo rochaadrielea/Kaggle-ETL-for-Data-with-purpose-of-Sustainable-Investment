@@ -1,6 +1,6 @@
 # Data Pipeline Sustainable Investment Insights
 
-The goal of this project is to create an ETL (Extract, Transform, Load) pipeline to process sustainable investment data using SQL Server Integration Services (SSIS), SQL Server, and Visual Studio Code with WSL. The pipeline will extract data from a structured dataset, transform it for analytical reporting, and load it into a Data Warehouse (DWH) optimized for Power BI reporting.
+The goal of this project is to create an ETL (Extract, Transform, Load) pipeline to process sustainable investment data using SQL Server Integration Services (SSIS), Microsoft SQL Server, and Visual Studio Code with WSL. The pipeline will extract data from a structured dataset, transform it for analytical reporting, and load it into a Data Warehouse (DWH) optimized for Power BI reporting.
 
 # Project Objectives
 Extract investment and sustainability-related data (e.g., financial inclusion, climate finance, and sustainable food security).
